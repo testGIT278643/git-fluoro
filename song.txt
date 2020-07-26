@@ -2,9 +2,3 @@ Line A
 Line B
 lINE C
 Line D
-
-some content NEW NE REVERT COMMIT CHANGE
-
-one more line
-
-tet's add a nbew couplet
